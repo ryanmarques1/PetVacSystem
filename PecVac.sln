@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetVacSystem.Domain", "PetVacSystem.Domain\PetVacSystem.Domain.csproj", "{5F6A09F6-4AD2-481F-8DEF-E8D5F3DB4A57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetVacSystem.Persistence", "PetVacSystem.Persistence\PetVacSystem.Persistence.csproj", "{B50B1A99-7452-4F14-A90F-0FC802AE84C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetVacSystem.WebApi", "PetVacSystem.WebApi\PetVacSystem.WebApi.csproj", "{BACD9FE1-39FB-4907-B193-7C95A4466239}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetVacSystem.Application", "PetVacSystem.Application\PetVacSystem.Application.csproj", "{5775D62D-D5D2-48EF-BD6B-99B5EFBEEF78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F6A09F6-4AD2-481F-8DEF-E8D5F3DB4A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F6A09F6-4AD2-481F-8DEF-E8D5F3DB4A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F6A09F6-4AD2-481F-8DEF-E8D5F3DB4A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F6A09F6-4AD2-481F-8DEF-E8D5F3DB4A57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B50B1A99-7452-4F14-A90F-0FC802AE84C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B50B1A99-7452-4F14-A90F-0FC802AE84C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B50B1A99-7452-4F14-A90F-0FC802AE84C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B50B1A99-7452-4F14-A90F-0FC802AE84C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BACD9FE1-39FB-4907-B193-7C95A4466239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BACD9FE1-39FB-4907-B193-7C95A4466239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BACD9FE1-39FB-4907-B193-7C95A4466239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BACD9FE1-39FB-4907-B193-7C95A4466239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5775D62D-D5D2-48EF-BD6B-99B5EFBEEF78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5775D62D-D5D2-48EF-BD6B-99B5EFBEEF78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5775D62D-D5D2-48EF-BD6B-99B5EFBEEF78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5775D62D-D5D2-48EF-BD6B-99B5EFBEEF78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

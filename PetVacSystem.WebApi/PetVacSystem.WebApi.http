@@ -1,0 +1,6 @@
+@PetVacSystem.WebApi_HostAddress = http://localhost:5293
+
+GET {{PetVacSystem.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
